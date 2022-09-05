@@ -1,3 +1,4 @@
-# References
+my-resume
+references md conflict
+conflict
 
-* octocat 1 😈
